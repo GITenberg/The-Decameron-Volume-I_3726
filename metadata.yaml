@@ -1,5 +1,5 @@
 _repo: The-Decameron-Volume-I_3726
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   translator:
     agent_name: Rigg, J. M. (James Macmullen)
@@ -54,6 +54,7 @@ subjects:
 - !lcsh 'Allegories'
 - !lcsh 'Plague -- Europe -- History -- Fiction'
 - !lcsh 'Frame-stories'
+- GITenberg
 title: The Decameron, Volume I
 url: http://www.gutenberg.org/ebooks/3726
 wikipedia:
